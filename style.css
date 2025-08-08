@@ -1,5 +1,6 @@
 .calculator-background {
-    
+
+    background-color: #17171C;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -7,11 +8,11 @@
 }
 
 .calculator{
-    background-color: #17171C;
+    
     justify-content: space-between;
     height: 600px;
-    margin: 40px;
-    padding: 50px;
+    margin: 10px;
+    padding: 20px;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
